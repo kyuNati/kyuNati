@@ -1,0 +1,40 @@
+.im {
+ border-radius: 50px;
+ border: solid 5px #e3d0e0;
+ background-color: #e3d0e0;
+ margin: 10px;
+}
+h1 {
+ font-family: BUNGGE;
+ border: solid 3px;
+ border-radius: 0 100px 100px 0;
+ background-color: #e3d0e0;
+ color: white;
+ padding-top: 10px;
+ font-size: 40px;
+}
+h2 {
+ font-size: 18px;
+ font-family: serif;
+ border: solid 2px;
+ border-radius: 10px;
+}
+body {
+ background-image: url("https://i.postimg.cc/pLnzLjy0/images-1.jpg");
+ background-repeat: no-repeat;
+ background-size: 500px 1000px;
+ font-family: trebuchet MS;
+ text-align: center;
+ color: white;
+}
+a {
+ background-color: white;
+ font-size: 20px;
+ border-radius: 10px;
+ padding: 10px;
+ display: block;
+ text-align: center;
+margin: 10px;
+color: slateblue;
+}
+
